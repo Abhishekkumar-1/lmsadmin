@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # THE SITE IS HOSTED ON: https://lmsadmin.vercel.app/
 
+# You can see the video of website in above mp4 file- 20230617234132.mp4
+
+
+https://github.com/Abhishekkumar-1/lmsadmin/assets/105112878/0717524b-c129-435a-8e06-aceea98586c8
+
+
 ## Getting Started
 
 Steps:

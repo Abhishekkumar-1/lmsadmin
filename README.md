@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # THE SITE IS HOSTED ON: https://lmsadmin.vercel.app/
 
-This site has also has an USER PANEL for viewing, renting books
+This site has also has an USER PANEL for viewing, renting books: https://github.com/Abhishekkumar-1/lmsuser
 
 # You can see the video of website in above mp4 file- 20230617234132.mp4
 

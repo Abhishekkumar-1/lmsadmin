@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # THE SITE IS HOSTED ON: https://lmsadmin.vercel.app/
 
+# PLEASE READ MORE
+
 This site has also has an USER PANEL for viewing, renting books: https://github.com/Abhishekkumar-1/lmsuser
 
 # You can see the video of website in above mp4 file- 20230617234132.mp4
@@ -34,6 +36,34 @@ yarn dev
 # or
 pnpm dev
 ```
+# ABOUT THE ADMIN PANEL:
+
+The Admin can login through Google or Github
+
+The Admin has a dashboard
+
+The Admin has access to add new books, edit books or delete them
+
+The Admin can create new genre for boooks making easy for sorting books
+
+The Admin canview all Orders placed by users
+
+The Admin can add new Admin that will have acces to admin panel
+
+## NOTE: The code has been changed to allow any one to access database but only for project purpose. 
+
+
+# ABOUT THE USER PANEL:
+
+The User can view all books
+
+The User has a Rent store
+
+The User has access to view new books, rent books and add to cart
+
+The Admin rent the books
+
+## NOTE: A payment gateway has also been implemented using Stripe
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

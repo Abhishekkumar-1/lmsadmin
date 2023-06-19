@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# THE SITE IS HOSTED ON: https://lmsadmin.vercel.app/
+# THE ADMIN SITE IS HOSTED ON: https://lmsadmin.vercel.app/
+# THE USER SITE IS HOSTED ON: https://lmsuser.vercel.app/
 
 # PLEASE READ MORE
 
